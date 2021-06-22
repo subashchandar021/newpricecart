@@ -1,2 +1,2 @@
-# newpricecart
+# Pricecart
 Created with CodeSandbox
